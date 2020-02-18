@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'execjs'
-require 'mini_racer'
+# require 'mini_racer'
 
 module Tilt
 
